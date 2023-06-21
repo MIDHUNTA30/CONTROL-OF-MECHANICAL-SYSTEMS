@@ -1,3 +1,4 @@
+% MATLAB program for Sliding Mode Control of Simple pendulum system 
 % main function
 function main
 clear all;
