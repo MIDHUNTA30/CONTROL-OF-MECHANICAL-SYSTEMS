@@ -1,3 +1,4 @@
+% MATLAB program for Sliding Mode Control of PMSM 
 % main function
 function main
 clear all;
